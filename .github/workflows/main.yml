@@ -1,6 +1,5 @@
 name: 联通挂机任务积分脚本
 
-
 on:
   
   push: # push触发
